@@ -1,2 +1,3 @@
-# have-you-read-it
-A book review site
+# Project 1
+
+Web Programming with Python and JavaScript
